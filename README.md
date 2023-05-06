@@ -1,6 +1,5 @@
 # sigsci-nginx-ingress-controller
 Dockerfile to add the Signal Sciences NGINX module into the stock Kubernetes NGINX ingress controller image (https://github.com/kubernetes/ingress-nginx)
-
 Prebuilt images hosted here: https://hub.docker.com/repository/docker/signalsciences/sigsci-nginx-ingress-controller
 
 Tags/Releases track image tags of the upstream docker repo.
